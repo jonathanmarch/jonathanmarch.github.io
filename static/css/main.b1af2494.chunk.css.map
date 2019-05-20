@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.css"],"names":[],"mappings":"AAAA,OACI,4BACJ,CAEA,GACI,eAAgB,CAChB,kBACJ","file":"main.b1af2494.chunk.css","sourcesContent":[".title {\r\n    margin-bottom: 3rem !important;\r\n}\r\n\r\nhr {\r\n    margin-top: 2rem;\r\n    margin-bottom: 2rem;\r\n}"]}
